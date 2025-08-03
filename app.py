@@ -11,6 +11,7 @@ from collections import deque
 
 from bson import ObjectId, SON
 import numpy as np
+import pandas as pd
 import cv2
 import mediapipe as mp
 from flask import (
